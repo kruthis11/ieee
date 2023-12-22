@@ -1,0 +1,43 @@
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    font-size: 1rem;
+  }
+  
+  .header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+  }
+  
+  .main-content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(42,161,201);
+    border-radius: 5px;
+    text-align:center;
+    font-size: 30px;
+  }
+  
+  .contact-number {
+    
+    text-align: center;
+    line-height: 1.6;
+  }
+  
+  
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
